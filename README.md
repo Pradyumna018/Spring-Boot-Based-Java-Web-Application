@@ -12,7 +12,7 @@ This is a MVC architecture based application where controller returns a page wit
 
 Change hostname(Optional):
 ```
-sudo hostnamectl set-hostname Jenkins
+sudo hostnamectl set-hostname JavaMaven
 sudo systemctl reboot
 ```
 ## Step-2 : Let's install JAVA and MAVEN
